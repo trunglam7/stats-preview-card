@@ -87,6 +87,7 @@ h1 span{
     grid-template-columns: repeat(3, 1fr);
     column-gap: 10px;
     margin-top: 10px;
+    line-height: 33px;
 }
 
 .stat > p:last-of-type{
